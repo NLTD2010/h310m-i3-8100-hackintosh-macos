@@ -4,11 +4,12 @@ if you use 9th cpu with uhd 630 i think you should patch your igpu with (device-
 ......................................................................
 # THIS EFI CAN USE ON MACOS MONTERY,BIGSUR,CATALINA,MOJAVE,HIGH SERRIA
 .................
-## MY SPECS:
-cpu: i3 8100
-igpu : uhd 630
-main : h310m ds2
-ram : 8gb
-..................
-working: all 😆😆
-not working : nothing :)
+## Specs:
+
+- Intel Core i3-8100
+- 8GB RAM
+- Graphics: Intel UHD 630 
+- Wi-fi/Bluetooth card: no 
+  ..................
+- working: all 😆😆
+- not working : nothing :)
