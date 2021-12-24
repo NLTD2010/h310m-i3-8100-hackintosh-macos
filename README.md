@@ -1,15 +1,46 @@
-## DESKTOP H310M DS2 gigabyte (you can use for : h310 msi , ASUS PRIME H310M-E ,... same the chipset Intel® H310)
-- I think you should use the cpu 8th with uhd 630 for the best
-- if you use 9th cpu with uhd 630 i think you should patch your igpu with (device-id : 923E0000)
--......................................................................
-## THIS EFI CAN USE ON MACOS MONTERY,BIGSUR,CATALINA,MOJAVE,HIGH SERRIA
-- .................
-## Specs:
+# H310M i3-8100 hackintosh
 
-- Intel Core i3-8100
-- 8GB RAM
-- Graphics: Intel UHD 630 
-- Wi-fi/Bluetooth card: no 
-  ..................
-- working: all 😆😆
-- not working : nothing :)
+![Screenshot](BigSur.png)
+
+## ⚠ MacOS Supported
+- Mac OS : 
+  - Montery 
+  - BigSur ✅
+  - Catalina ✅
+  - Mojave ✅
+  - 
+- Bootloader: Opencore or Clover
+
+## ℹ️ System infomation
+
+  * CPU: Intel® Core™ i3-8100 3,60 GHz
+  * GPU: Intel Uhd 630
+  * RAM : 8gb
+  * Sound: Realtek 887 (alc887)
+  * Wireless: NO
+  * Webcam: Yes
+  * Headphone & Speaker: Yes
+  * Bluetooth: no
+
+## ☑️ Status Overview
+<details>
+<summary><strong>Current Status</strong></summary>
+
+### Working
+
+| Feature | Status |
+| ------------- | ------------- |
+| CPU | ✅ Working |
+| GPU | ✅ Working |
+| USB Port | ✅ Working |
+| Audio | ✅ Working |
+| Battery | ✅ Working |
+| Headphone & Speaker | ✅ Working |
+| Webcam | ✅ Working |
+| FileVault | ✅ Working |
+| iMessage, Facetime & AppStore | ✅ Working |
+
+
+
+
+
